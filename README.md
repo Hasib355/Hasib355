@@ -22,7 +22,7 @@ I like to study new things. Being knowledgeable about (your field) or any subjec
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hasib355)  
 
-  ## 📊 My Github Stats
+  ## My Github Stats
   <br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasib355)](https://github.com/anuraghazra/github-readme-stats)
