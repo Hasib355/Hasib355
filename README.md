@@ -11,6 +11,9 @@ I like to study new things. Being knowledgeable about (your field) or any subjec
 - 📫 How to reach me: E-Mail : hrhasib13@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hasib355)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hrhasib1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hr.hasib10012020)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__hr.hasib__?igshid=YmMyMTA2M2Y=/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ShahMdHasiburR)
 
 <h3 align="left">Languages and Tools:</h3>
