@@ -1,5 +1,3 @@
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=2788B3&lines=As-salamu+alaykum;I+hope+you+are+well.....;Thank+you+.....">
-<div id="header" align="center">
 ### Hi there 👋, SHAH MD HASIBUR RAHAMAN HASIB
 #### I am Student Of Bangladesh University of Business and Technology-BUBT 
 #### Department of Computer Science Engineering (CSE) 
